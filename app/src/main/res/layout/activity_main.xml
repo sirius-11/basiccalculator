@@ -10,7 +10,7 @@
         android:padding="5dp">
 
         <!-- Learn about layout_gravity & gravity  -->
-
+          <!-- kinjal kumar gupta-->
         <!-- Linear Layout for One Text View and One Edit Text   -->
 
         <LinearLayout
